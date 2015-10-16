@@ -1,3 +1,3 @@
 # Elobuddy-Addons
-x
-汉化Elobuddy脚本
+
+汉化Elobuddy脚本  By:QQ 34384339
